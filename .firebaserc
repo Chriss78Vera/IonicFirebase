@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "appmoviles-1": {
+      "hosting": {
+        "app": [
+          "appmoviles-1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "appmoviles-1"
+  }
+}
